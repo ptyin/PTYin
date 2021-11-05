@@ -57,10 +57,8 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
 
 <h2 align="right">Profile stats ⭐</h2>
 
-<div align="center" style="display: flex">
-    <img src="https://github-readme-stats.vercel.app/api?username=PTYin&show_icons=true&theme=calm&hide=issues" alt="PTYin :: Profile Stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTYin&langs_count=6&theme=calm&layout=compact" alt="PTYin :: Top Langs" />
-</div>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=PTYin&show_icons=true&theme=vue&bg_color=white&hide=issues&&hide_border=true" alt="PTYin :: Profile Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTYin&langs_count=6&theme=vue&bg_color=white&layout=compact&hide_border=true" alt="PTYin :: Top Langs" /> |
+| ------------- | ------------- |
 
 
 ---
