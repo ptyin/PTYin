@@ -1,5 +1,5 @@
 <div style="width:100%; height:250px;">
-    <img align="left" src="side.png" style="height:200px;border-radius:10px;margin-right: 40px" />
+    <img align="right" src="side.png" style="height:200px;border-radius:10px;margin-left: 40px" />
     <div id="introduction" style="margin-right: 0px">
     	<h2 align="center">Peter Yin 🦩</h2>
         <p>
