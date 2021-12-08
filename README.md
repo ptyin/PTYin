@@ -9,11 +9,11 @@
             - My recent interests focus on Cloud ☁️ &amp; Big Data.<br/>
             - My goal is to be a Full-stack Web Developer, hope so ;-).
         </p>
+    </div>
         <div align="right">
     		<img src="https://gpvc.arturio.dev/PTYin" style=" margin-right:5px" />
     		<img src="https://img.shields.io/github/followers/PTYin?label=Follow" style="margin-right:5px" />
-		</div>
-    </div>
+	</div>
 </div>
 
 <h2 align="left">Tech &amp; Tools Preference 👨‍💻</h2>
