@@ -1,5 +1,5 @@
 <div style="width:100%; height:250px;">
-    <img align="right" src="side.png" style="height:200px;border-radius:10px;margin-left: 40px" />
+    <img align="right" src="side.png" style="height:190px;margin-left: 40px" />
     <div id="introduction" style="margin-right: 0px">
     	<h2 align="center">Peter Yin 🦩</h2>
         <p>
@@ -10,10 +10,10 @@
             - My goal is to be a Full-stack Web Developer, hope so ;-).
         </p>
     </div>
-        <div align="right">
-    		<img src="https://gpvc.arturio.dev/PTYin" style=" margin-right:5px" />
-    		<img src="https://img.shields.io/github/followers/PTYin?label=Follow" style="margin-right:5px" />
-	</div>
+    <div align="right">
+	    <img src="https://gpvc.arturio.dev/PTYin" style=" margin-right:5px" />
+	    <img src="https://img.shields.io/github/followers/PTYin?label=Follow" style="margin-right:5px" />
+    </div>
 </div>
 
 <h2 align="left">Tech &amp; Tools Preference 👨‍💻</h2>
