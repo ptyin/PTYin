@@ -11,8 +11,8 @@
         </p>
     </div>
     <div align="right">
-	    <img src="https://gpvc.arturio.dev/PTYin" style=" margin-right:5px" />
-	    <img src="https://img.shields.io/github/followers/PTYin?label=Follow" style="margin-right:5px" />
+	    <img src="https://shields.io/github/stars/PTYin?color=gold" style=" margin-right:5px" />
+	    <img src="https://img.shields.io/github/followers/PTYin?color=blue" style="margin-right:5px" />
     </div>
 </div>
 
