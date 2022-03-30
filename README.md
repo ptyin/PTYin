@@ -26,7 +26,6 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
     <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFFFFF">
-    <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=FFFFFF">
 </div>
