@@ -21,7 +21,7 @@
 Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past
 
 <div>
-    📕 Language: 
+    📕 Language:
     <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=FFFFFF">
@@ -29,26 +29,24 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
 </div>
 
 <div>
-    🔧 Backend Framework: 
+    🔧 Backend Framework:
     <img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=FFFFFF">
-    <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=FFFFFF">
 </div>
 
 <div>
-    🎀 Frontend Framework: 
+    🎀 Frontend Framework:
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
     <img src="https://img.shields.io/badge/-Ant Design-0170FE?style=flat&logo=antdesign&logoColor=FFFFFF">
 </div>
 
 <div>
-    🤖 Machine &amp; Deep Learning Framework: 
+    🤖 ML &amp; DL Framework:
     <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
     <img src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
     <img src="https://img.shields.io/badge/-DGL-359BF0?style=flat&logoColor=FFFFFF">
-    <img src="https://img.shields.io/badge/-learn2learn-009ce8?style=flat&logoColor=FFFFFF">
 </div>
 
 <h3 align="center">Profile stats ⭐</h3>
