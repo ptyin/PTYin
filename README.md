@@ -3,8 +3,8 @@
     <div id="introduction" style="margin-right: 0px">
     	<h2 align="center">Peter Yin 🦩</h2>
         <p>
-            - I am currently a CS major undergrad in <a href="https://www.tsxt.sdu.edu.cn/">Taishan college</a> from <a href="http://www.sdu.edu.cn/">SDU</a>, <br/>
-            - and have been admitted into <a href="https://www.tsinghua.edu.cn/">THU</a> as a master in SE.<br/>
+	    - I am currently a graduate student of software engineering in <a href="https://www.tsinghua.edu.cn/">THU</a>, <br/>
+            - and was graduated from <a href="https://www.tsxt.sdu.edu.cn/">Taishan college</a> from <a href="http://www.sdu.edu.cn/">SDU</a>. <br/>
             - I previously worked as a research intern in <a href="https://ilearn.qd.sdu.edu.cn/">iLearn</a> Lab, in which I mainly investigated on recommendation area.<br/>
             - My recent interests focus on Cloud ☁️ &amp; Big Data.<br/>
             - My goal is to be a Full-stack Web Developer, hope so ;-).
