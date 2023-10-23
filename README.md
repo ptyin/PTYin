@@ -23,8 +23,7 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
     <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFFFFF">
-</div>
-
+    <img src="https://img.shields.io/badge/-Go-00add8?style=flat&logo=go&logoColor=ffffff"></div>
 <div>
     🔧 Backend Framework:
     <img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=express&logoColor=white">
@@ -50,13 +49,3 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=PTYin&show_icons=true&theme=vue&bg_color=white&hide=issues&&hide_border=true" alt="PTYin :: Profile Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTYin&langs_count=10&theme=vue&bg_color=white&layout=compact&hide_border=true" alt="PTYin :: Top Langs" /> |
 | ------------- | ------------- |
-
-
----
-
-<div align="center">
-    <a href="https://github.com/PTYin"><img src="https://img.shields.io/badge/Github-PTYin-181717?style=flat&logo=github&logoColor=FFFFFF"> </a>
-    <a href="https://www.zhihu.com/people/peter-94-80"><img src="https://img.shields.io/badge/Zhihu-PTYin-0066ff?style=flat"> </a>
-    <a href="https://blog.csdn.net/weixin_43090100"><img src="https://img.shields.io/badge/CSDN-ptyin1604-fc5531?style=flat"> </a>
-</div>
-
