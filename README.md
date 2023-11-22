@@ -4,7 +4,7 @@
     	<h2 align="center">Peter Yin</h2>
         <p>
 	    - I am a graduate student in software engineering from <a href="https://www.tsinghua.edu.cn/">THU</a>. <br/>
-            - My recent interests focus on Cloud ☁️ &amp; Big Data.<br/>
+            - My recent interests focus on Cloud ☁️ &amp; MLOps.<br/>
         </p>
     </div>
     <div align="right">
