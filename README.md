@@ -1,7 +1,7 @@
 <div style="width:100%; height:250px;">
     <img align="right" src="seaside.jpg" style="height:210px;margin-left: 40px" />
     <div id="introduction" style="margin-right: 0px">
-    	<h2 align="center">Peter Yin (尹祥琨)</h2>
+    	<h2 align="center">Peter Yin (ptyin)</h2>
         <p>
 	    - I am a graduate student in software engineering of <a href="https://www.tsinghua.edu.cn/">THU</a>. <br/>
             - My recent interests focus on Cloud ☁️ &amp; MLOps.<br/>
